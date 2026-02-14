@@ -7,5 +7,5 @@ Herein contains notes that I have made on various topics of particular interest 
 
 This repository is organized by topic where each folder represents a topic of discussion.
 
-* [Artificial Intellegence](./topics/artificial-intelligence)
+* [Artificial Intelligence](./topics/artificial-intelligence)
 
